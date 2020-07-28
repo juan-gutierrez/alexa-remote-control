@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash -x
 #
 # Amazon Alexa Remote Control
 #  alex(at)loetzimmer.de
@@ -68,21 +68,21 @@
 #
 ##########################################
 
-SET_EMAIL='amazon_account@email.address'
-SET_PASSWORD='Very_Secret_Amazon_Account_Password'
-SET_MFA_SECRET=''
+SET_EMAIL='gutierrez.rosas@gmail.com'
+SET_PASSWORD='jg016Dal'
+#SET_MFA_SECRET=''
 # something like:
 #  1234 5678 9ABC DEFG HIJK LMNO PQRS TUVW XYZ0 1234 5678 9ABC DEFG
 
-SET_LANGUAGE='de,en-US;q=0.7,en;q=0.3'
+SET_LANGUAGE='es-MX;q=0.7,en;q=0.3'
 #SET_LANGUAGE='en-US'
 
-SET_TTS_LOCALE='de-DE'
+SET_TTS_LOCALE='es-MX'
 
-SET_AMAZON='amazon.de'
+SET_AMAZON='amazon.com.mx'
 #SET_AMAZON='amazon.com'
 
-SET_ALEXA='alexa.amazon.de'
+SET_ALEXA='alexa.amazon.com.mx'
 #SET_ALEXA='pitangui.amazon.com'
 
 # cURL binary

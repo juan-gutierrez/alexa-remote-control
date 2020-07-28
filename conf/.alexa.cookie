@@ -1,0 +1,76 @@
+.ookie File for amazon.com by Genuinous @genuinous.
+# To download cookies for this tab click here, or download all cookies.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://alexa.amazon.com/spa/index.html#cards"
+#   2) curl --cookie cookies.txt "https://alexa.amazon.com/spa/index.html#cards"
+#   3) aria2c --load-cookies cookies.txt "https://alexa.amazon.com/spa/index.html#cards"
+#
+alexa.amazon.com	FALSE	/api	FALSE	0	x-amzn-dat-gui-client-v	1.24.207576.0
+alexa.amazon.com	FALSE	/spa	FALSE	253402300799	DISPLAY_DEPRECATION_BANNER_STATUS	false
+alexa.amazon.com	FALSE	/spa	FALSE	0	a2s_csrf	A2S3nvVZWXK0Zhy95Hlf30qq39WQ0cj3D
+pitangui.amazon.com	FALSE	/api	FALSE	0	x-amzn-dat-gui-client-v	1.24.207576.0
+pitangui.amazon.com	FALSE	/spa	FALSE	253402300799	DISPLAY_DEPRECATION_BANNER_STATUS	false
+pitangui.amazon.com	FALSE	/spa	FALSE	1596032662	gw-penalty	20132
+pitangui.amazon.com	FALSE	/spa	FALSE	1596032662	gw-timestamp	Tue%2C%2028%20Jul%202020%2014%3A24%3A09%20GMT
+alexa.amazon.com.mx	FALSE	/api	FALSE	0	x-amzn-dat-gui-client-v	1.24.207576.0
+alexa.amazon.com.mx	FALSE	/spa	FALSE	253402300799	DISPLAY_DEPRECATION_BANNER_STATUS	false
+alexa.amazon.com	FALSE	/spa	FALSE	1596033201	gw-timestamp	Tue%2C%2028%20Jul%202020%2014%3A33%3A21%20GMT
+alexa.amazon.com	FALSE	/spa	FALSE	1596033201	gw-penalty	10000
+.amazon.com.mx	TRUE	/	FALSE	1627481570	session-id	143-4788424-3501444
+.associates-amazon.com	TRUE	/	TRUE	1598285395	abid	16b82caa-d43a-1645-f0de-31f84e451b86
+.amazon.com.mx	TRUE	/	FALSE	1627481570	ubid-acbmx	131-5703348-0843548
+.amazon.com	TRUE	/	TRUE	1627482799	ubid-main	130-5463190-1635153
+.amazon.com	TRUE	/	FALSE	0	AMCVS_4A8581745834114C0A495E2B%40AdobeOrg	1
+.amazon.com	TRUE	/	FALSE	1658682098	_mkto_trk	id:365-EFI-026&token:_mch-amazon.com-1582126714664-79433
+.amazon.com	TRUE	/	FALSE	0	s_cc	true
+.amazon.com	TRUE	/	FALSE	0	skin	noskin
+.amazon.com	TRUE	/	TRUE	2082787202	sp-cdn	"L5Z9:MX"
+.amazon.com.mx	TRUE	/	FALSE	1627481570	lc-acbmx	es_MX
+.amazon.com.mx	TRUE	/	FALSE	2082758402	x-wl-uid	1sWZiot0glIJrStFkHESxkrAIY4klGYLGM4A314Fb1aT3U3LkTvSBf86tS2Hwo4HEi23X9qez4AE5fQqkP0UcUlofP+feVAhG92Vh1qdiTbAO1ucZkg9OH/kX/ZCA5047QoPNylPj28U=
+.amazon.com	TRUE	/	FALSE	2082787202	appstore-devportal-locale	en_US
+.amazon.com	TRUE	/	FALSE	0	at_check	true
+.amazon.com	TRUE	/	TRUE	1627402165	lc-main	en_US
+.amazon.com	TRUE	/	FALSE	2082787201	x-wl-uid	1Aljdljw//+2RNWeWT5lMdJsqX1Q6xkRqpYyMKvrOECa/CLsIUAwYfGorraYX56w87ufiAEu9NbC69qyQIeltU26nnkTuwyC1KfKxFNAPW94nwwmWaTocVxe+cy17G4TgBnvQocem2QE=
+.amazon.com	TRUE	/	FALSE	0	s_ppv	55
+.amazon.com	TRUE	/	FALSE	2023799716	s_vnum	2023799716344%26vn%3D2
+.amazon.com	TRUE	/	FALSE	1686492169	s_dslv	1591884169828
+.amazon.com	TRUE	/	FALSE	2082787203	i18n-prefs	USD
+.amazon.com	TRUE	/	FALSE	0	s_sq	%5B%5BB%5D%5D
+.amazon.com	TRUE	/	FALSE	1603145740	_fbp	fb.1.1595369667449.1921803764
+forums.developer.amazon.com	FALSE	/	TRUE	0	SESSION	5f8dab54-e86a-4716-9d60-2201565fa524
+forums.developer.amazon.com	FALSE	/	TRUE	0	TH_JS_SUPPORT	true
+.amazon.com	TRUE	/	TRUE	0	lwa-context	50273f5eed0d5a9c0d54dac4e3e20f1c
+.na.account.amazon.com	TRUE	/	TRUE	1626909663	ubid-lwana	135-1623220-8227609
+.na.account.amazon.com	TRUE	/	TRUE	1626909663	session-id-lwana	131-2885736-0988217
+.na.account.amazon.com	TRUE	/	TRUE	1626909663	session-id-time-lwana	2226093662l
+.na.account.amazon.com	TRUE	/	TRUE	1626909663	session-token-lwana	"DyCqQ+v9OzXpIoBjZX5bLH8cekVc6/hTmfwXrPniaLYd+yjCDQINgQypBK130PKUHgrrsEG8VghDH/xHE81zoFSNXXQkvpeNVQfzjfof4o5f9R6svIFpol42k7d39ez1HyEwaFL6T+R+HHYlozrhqLKvV1xFhsobo/ciFY4SsL4+dNdkKCT7FFFDQKG3C4c06L1YYKxsroRppAHkheFVtGKNIbc0iQ7MJFO2haXnjKk="
+.na.account.amazon.com	TRUE	/	TRUE	1626909663	x-lwana	"K30CntxV?6eSOSWL4KdunrSTX6WnsM8u"
+.na.account.amazon.com	TRUE	/	TRUE	1626909663	at-lwana	Atza|IwEBIAejo-luzGcb7-7h8KntCuDDnf_EdVi-D361WZApKCUN0PvBh_UTBUHvyMXYS6micGS_ux9QFqOugvvsBEPwmDJcHyqFrK1OHx61kSaC0v1kEbXOMq2JXv0O4FA-6aRjkitFnMzQy88vzQDpaD4wghFVsEaAQVS2ac5Hh6EtisCKInFV_1nyp-PvdCYzm1nISmzWxRgpLpCzV4jzj32gj3hOnKWgsqg--Gde7eoIHGxjOw
+.na.account.amazon.com	TRUE	/	TRUE	1626909663	sess-at-lwana	"r7iRVi1XwZchijsr+FK85tulyoEiyyQwTrKq5oowRtA="
+na.account.amazon.com	FALSE	/	FALSE	1655853722	csm-hit	tb:s-RX465AD52F5RPY82SD3S|1595373722683&t:1595373722832&adb:adblk_no
+.amazon.com	TRUE	/	FALSE	1910909387	csrf	-772087028
+skills-store.amazon.com	FALSE	/	TRUE	0	JSESSIONID	0D01B3230986376137B0111DB7D627BA
+.amazon.com	TRUE	/	FALSE	1658681783	AMCV_4A8581745834114C0A495E2B%40AdobeOrg	-408604571%7CMCIDTS%7C18468%7CMCMID%7C60036743891066814563061918268928262433%7CMCOPTOUT-1595616983s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.6.0%7CMCAAMLH-1596214583%7C9%7CMCAAMB-1596214583%7Cj8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI
+.amazon.com	TRUE	/	FALSE	0	referrer_session	{%22full_referrer%22:%22https://www.raspberrypi.org/%22}
+.amazon.com	TRUE	/	FALSE	1658854899	mbox	PC#b48177d094c344c9b75df8223cb58eee.35_0#1658854899|session#3088e40184f44060ae00e9bf4445cda8#1595611643
+.amazon.com	TRUE	/	FALSE	1603386098	s_nr	1595610098256-Repeat
+.amazon.com	TRUE	/	FALSE	1690218098	s_lv	1595610098258
+developer.amazon.com	FALSE	/	TRUE	0	QSI_HistorySession	https%3A%2F%2Fdeveloper.amazon.com%2Fen-US%2Fdocs%2Falexa%2Falexa-voice-service%2Fcode-based-linking-other-platforms.html~1595363356218%7Chttps%3A%2F%2Fdeveloper.amazon.com%2Fen-US%2Fdocs%2Falexa%2Falexa-smart-screen-sdk%2Fraspberry-pi.html~1595609785024%7Chttps%3A%2F%2Fdeveloper.amazon.com%2Fen-US%2Fdocs%2Falexa%2Falexa-voice-service%2Falerts-overview.html~1595610099188
+.amazon.com.mx	TRUE	/	FALSE	1627481570	x-acbmx	"2dJxYf9eSAxk@D9MXTo7BYloAzcO6JuM"
+.amazon.com.mx	TRUE	/	TRUE	1627402100	at-acbmx	Atza|IwEBIGFnD0fPZDUYcIdv2O49vMuKNYCyzu4WChvFoT4dLET8XgJLhFCCue4fc0L3xghG0X3vSIi8OXgCx2c0CWllkKc2HQjETKZa7AQR8DuKREn6gShWS_A5Ik8FLbmjXvCp0tWrgRvIs3_HA_LAUiJWIkP_8wYfwlN_8rw15PYnQh5DK_29p0RI8qFZubrPcjrRPrh4obilm6MHFqK_mVHqwswO
+.amazon.com.mx	TRUE	/	TRUE	1627402100	sess-at-acbmx	"JOPYSNpn9HFoxOz6PTBUWaomveAUhrHRY4w+rTQlx/w="
+.amazon.com.mx	TRUE	/	TRUE	1627402100	sst-acbmx	Sst1|PQETfXTRE5UVn-OnGxxX6TUjC9gHocEcKbF9p2NrbArnK_Uyl6NRUEIw2sP_OLRHfuRYY9moUUN693fenUfSVd7wBxR7_yS5O2tT6c_VC-YueFRRYKd_1FKyknB25xKPl6huiMYAAtpmCsKubpn6eHjagw-427p0lzl5o9aIRHHH-6Rsgyasvp2G8w0OS1Kfh6vlunfBuuQ0zthYYO8lGRaXB_N7e3QfCfF1siU8IEVB0G3QLpgio_a0hwGrAK47cQNxGL0D19Z7Mjf0IklYgOUg6ywnRZTsIlmgJAXjjXYtMHFHwY6fv5cz-B0bjh0Mlz4OGXDRuqbMTaoEW8N99aK7-A
+.amazon.com	TRUE	/	TRUE	1627402165	sst-main	Sst1|PQGYODmWnBe-1UEyb9lnlxZdC-eWCEGwzPKml8VNrsNNhrB9SX2F2MN6OxPJxuTj66R2lEtpQhGqPdMaEmON5AwF5lsKJwcKh_CrlFh347iSXzpBKevqYnLbIRheSMFaRZlKWIxVUiddOrCH0kEtokM23Zh0tn1LSugGpmBQRir6oi003HVa6CVenwdCto4iql3BblRutGAtwwkkD3Z4q1ItRU7_vv6SDxQC0yyXtV4Rs_ubxCKYaIFBpiykaqXmG1LdS8D3q91gDKIyy-ggQtIFOQEyFIOoHJWpHwe9goe16VA3BqRlhVcjezMHYP35SsC_u7450ASdHN6wNBMZZTPKGA
+.amazon.com.mx	TRUE	/	FALSE	1627481570	i18n-prefs	MXN
+.amazon.com.mx	TRUE	/	FALSE	1911432846	csrf	133532260
+.amazon.com.mx	TRUE	/	FALSE	1627481570	session-id-time	2082787201l
+.amazon.com.mx	TRUE	/	FALSE	1627481570	session-token	"/zmGtIFlcon7szYRx6DNRMXsdyhjPUWciE6NKpq4j+NAOPpWn4oof60zHs73M6MOl1VEDdDJxzEqiEQNT6EfGEYVNFhLi+krPQQ0O1hzZ2POBe0q+3/YRwCMpyj4LSuTzKjuqnHfthxnVDbeAtxQReIjyyBKDM0KmU2IBwVCevLCfL8zPfE/2p/9S6pT/j0lLXVMsuxTmz0MWa3EvWRnA7+hHHnCziq3LUjbNM9dvcvfnjS0VIzRH4x2/TuvCupJBwEzhQ2XXWZdloNuKYo5og=="
+www.amazon.com.mx	FALSE	/	FALSE	1626186563	csm-hit	tb:TCEC8SF974AVPVRVWB76+s-TCEC8SF974AVPVRVWB76|1595946563564&t:1595946563564&adb:adblk_no
+.amazon.com	TRUE	/	TRUE	1627482799	session-id	132-2303372-5154721
+www.amazon.com	FALSE	/	FALSE	1656426767	csm-hit	tb:SBMQ6XFBTCZPPX1JC8CB+s-SBMQ6XFBTCZPPX1JC8CB|1595946767278&t:1595946767278&adb:adblk_no
+.amazon.com	TRUE	/	TRUE	1627482799	session-id-time	2226666802l
+.amazon.com	TRUE	/	TRUE	1627482799	session-token	"6jKmbKwOVlwB3RpVtFYRtm/9U4H78mryyXD1tNWs4N6lzAGpAhlUbbCHsYw5CU45WACl/lrqNtEf6kJy7EXEDtwJlQ1eA9DkWjUD19EWDWBM3PMFJ4LV1/iubsxodY5jwkXC/1FryMUZU4EUFz7mpPeJ+VJFs4paqe/P47oY/4yuC0gpa3U3GMgoPEmmz5llxg/UQVb3RruOqGMzZ9k+3FktZbrnadNnXaVyNISESoo="
+.amazon.com	TRUE	/	TRUE	1627482799	x-main	"WOKZZSb7TjXs7kfNzvvxfUdMkWd8@Lhe"
+.amazon.com	TRUE	/	TRUE	1627482799	at-main	Atza|IwEBILun61NEBtlIwnPEiNE76_L-s6jpE5pBszHJN2VH7k9kpAiyR7MX4A3FxWK2R0IqQlmwuqccoOnudcTR9GJO7VBSOC1umVPsHWUu3-IDNe1JWjrw87IfxCbAsJFb8b4DxDRvrPygE9sQHoH4tRkfbQExV7zWCdnr6dUfqPTmKwpv5uZYVmJl752k-qNHuPVJCnxIYgGMuDZHpLlbk7BYeCv-3nylvLZTlR6GUmcNtxWnMg
+.amazon.com	TRUE	/	TRUE	1627482799	sess-at-main	"BX5UFzHJahh2xCcLzZ87vOVi8M8pffiAG6JdVl/HkEU="
+
