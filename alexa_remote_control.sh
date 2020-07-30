@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash 
 #
 # Amazon Alexa Remote Control
 #  alex(at)loetzimmer.de
@@ -103,7 +103,7 @@ SET_BROWSER='Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:1.0) bash-script/1.0'
 SET_OATHTOOL='/usr/bin/oathtool'
 
 # tmp path
-SET_TMP="/tmp"
+SET_TMP="/home/jgutierrez/alexa-remote-control/conf"
 
 # Volume for speak commands (a SPEAKVOL of 0 leaves the volume settings untouched)
 SET_SPEAKVOL="0"
