@@ -8,6 +8,7 @@ getState = False
 getJobState = False
 currentJobState = "none"
 newJobState = "none"
+prevState = "none"
 
 while True:
 
@@ -34,6 +35,7 @@ while True:
     print("Current states is ", currentState)
 
     if (re.search("run", currentState)):
+        prevState = "run"
         print("Lavadora is running")
         if (re.search("weightsensing", newJobState)):
            print("La lavadora esta calentando motores")
@@ -53,15 +55,24 @@ while True:
            mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"La lavadora ta exprimiendo, gira que gira\""
         if (re.search("drying", newJobState)):
            print("La lavadora ta secando, que calorsh")
-           mystring = "./alexa_remote_control.sh -d \"Comedor\" -e speak:" + "\"La lavadora ta secando, que calorsh\""
-           mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"La lavadora ta secando, que calorsh\""
+           mystring = "./alexa_remote_control.sh -d \"Comedor\" -e speak:" + "\"La lavadora ta secando, que calorts\""
+           mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"La lavadora ta secando, que calorts\""
         if (re.search("finish", newJobState)):
             print("Ya esta la ropita")
-            mystring = "./alexa_remote_control.sh -d \"Comedor\" -e speak:" + "\"Ya esta la ropita\""
-            mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"Ya esta la ropita\""
+            mystring = "./alexa_remote_control.sh -d \"Comedor\" -e speak:" + "\"Por fin. Ya esta la ropita\""
+            mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"Por fin. Ya esta la ropita\""
 
         if (newJobState != currentJobState):
             currentJobState = newJobState;
+            os.system(mystring)
+            time.sleep(2)
+            os.system(mystring2)
+
+    if (re.search("stop", currentState)):
+        if(prevState == "run"):
+            mystring = "./alexa_remote_control.sh -d \"Comedor\" -e speak:" + "\"Parece que la lavadora se detuvo.Y ya esta la ropita\""
+            mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"Parece que la lavadora se detuvo.Y ya esta la ropita\""       
+            prevState = "stop" 
             os.system(mystring)
             time.sleep(2)
             os.system(mystring2)
