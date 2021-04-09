@@ -70,8 +70,8 @@ while True:
 
     if (re.search("stop", currentState)):
         if(prevState == "run"):
-            mystring = "./alexa_remote_control.sh -d \"Comedor\" -e speak:" + "\"Parece que la lavadora se detuvo.Y ya esta la ropita\""
-            mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"Parece que la lavadora se detuvo.Y ya esta la ropita\""       
+            mystring = "./alexa_remote_control.sh -d \"Comedor\" -e speak:" + "\"Parece que la lavadora se detuvo. Y ya esta la ropita\""
+            mystring2 = "./alexa_remote_control.sh -d \"Dormitorio\" -e speak:" + "\"Parece que la lavadora se detuvo. Y ya esta la ropita\""       
             prevState = "stop" 
             os.system(mystring)
             time.sleep(2)
